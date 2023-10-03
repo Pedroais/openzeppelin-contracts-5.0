@@ -3,7 +3,6 @@
 Security vulnerabilities should be disclosed to the project maintainers through [Immunefi], or alternatively by email to security@openzeppelin.com.
 
 [Immunefi]: https://immunefi.com/bounty/openzeppelin
-
 ## Bug Bounty
 
 Responsible disclosure of security vulnerabilities is rewarded through a bug bounty program on [Immunefi].
